@@ -13,6 +13,7 @@ namespace MyGitHubApplication_20171231.Controllers
         public IActionResult Index()
         {
 			//hello View();
+			//hello View (B);
 			return View();
         }
 
